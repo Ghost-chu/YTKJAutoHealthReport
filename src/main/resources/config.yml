@@ -1,0 +1,39 @@
+# User-Agent 模拟
+user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63 YTKJAutoReportHelper/1.0.0"
+# WxPusher API Key
+push-api-key: ""
+# WxPusher 订阅用户UID
+push-uid: ""
+# 上报位置
+location: "山东省烟台市蓬莱区蓬莱阁街道海滨西路"
+# 是否在校
+in-school: true
+
+# 烟台科技学院 统一身份认证系统登陆设置
+# 用户名
+username: ""
+# 密码
+password: ""
+
+# 百度云 文字识别 OCR
+ocr:
+  # APPID
+  appid: ""
+  # APIKEY
+  apikey: ""
+  # API SECRET
+  apisecret: ""
+
+# 一日三报 自动截图 图片 FTP 上传地址
+ftp:
+  # 端口号
+  port: "2121"
+  # 主机 IP
+  host: ""
+  # 用户名
+  username: ""
+  # 密码
+  password: ""
+
+# WxPusher 内嵌图片前缀
+image-prefix: "http://localhost:8808/"
